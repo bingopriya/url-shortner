@@ -1,0 +1,4 @@
+psycopg2==2.9.9
+python-dotenv==0.21.0
+Jinja2==3.1.2
+python-multipart==0.0.5
